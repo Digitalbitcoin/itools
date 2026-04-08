@@ -12,7 +12,7 @@
 
 **A comprehensive suite of 40+ free, privacy-focused web tools that work entirely in your browser.**
 
-[Demo](https://itools.click) · [Report Bug](https://github.com/Digitalbitcoin/itools/issues) · [Request Feature](https://github.com/Digitalbitcoin/itools/issues)
+[Demo](https://itools.click) · [Tools Demo](https://itools.click/itools) · [Report Bug](https://github.com/Digitalbitcoin/itools/issues) · [Request Feature](https://github.com/Digitalbitcoin/itools/issues)
 
 </div>
 
