@@ -53,72 +53,73 @@
 ### 📄 PDF Tools
 | Tool | Description | Popularity |
 |------|-------------|------------|
-| Image To PDF | Convert images to PDF format | ⭐⭐⭐⭐☆ |
-| PDF to ZIP | Compress PDF files to ZIP | ⭐⭐⭐☆☆ |
-| PDF Merge | Combine multiple PDFs | ⭐⭐⭐⭐⭐ |
-| PDF Split | Split PDF into pages | ⭐⭐⭐⭐☆ |
+| [Image To PDF](https://itools.click/img-to-pdf) | Convert images to PDF format | ⭐⭐⭐⭐☆ |
+| [PDF to ZIP](https://itools.click/pdf-to-zip) | Compress PDF files to ZIP | ⭐⭐⭐☆☆ |
+| [PDF Merge](https://itools.click/pdf-merge) | Combine multiple PDFs | ⭐⭐⭐⭐⭐ |
+| [PDF Split](https://itools.click/pdf-split) | Split PDF into pages | ⭐⭐⭐⭐☆ |
 
 ### 🧮 Calculators
 | Tool | Description | Popularity |
 |------|-------------|------------|
-| Age Calculator | Calculate exact age from birth date | ⭐⭐⭐⭐☆ |
-| BMI Calculator | Calculate Body Mass Index | ⭐⭐⭐⭐☆ |
-| EMI Calculator | Calculate loan EMIs | ⭐⭐⭐⭐⭐ |
-| GST Calculator | Calculate GST amounts | ⭐⭐⭐⭐⭐ |
-| SIP Calculator | Calculate SIP returns | ⭐⭐⭐⭐☆ |
+| [Age Calculator](https://itools.click/age-calculator) | Calculate exact age from birth date | ⭐⭐⭐⭐☆ |
+| [BMI Calculator](https://itools.click/bmi-calculator) | Calculate Body Mass Index | ⭐⭐⭐⭐☆ |
+| [EMI Calculator](https://itools.click/emi-calculator) | Calculate loan EMIs | ⭐⭐⭐⭐⭐ |
+| [GST Calculator](https://itools.click/gst-calculator) | Calculate GST amounts | ⭐⭐⭐⭐⭐ |
+| [SIP Calculator](https://itools.click/sip-calculator) | Calculate SIP returns | ⭐⭐⭐⭐☆ |
 
 ### 🖼️ Image Tools
 | Tool | Description | Popularity |
 |------|-------------|------------|
-| Image Compressor | Compress images without quality loss | ⭐⭐⭐⭐⭐ |
-| Image Resizer | Resize images to any dimension | ⭐⭐⭐⭐⭐ |
-| Image Converter | Convert between image formats | ⭐⭐⭐⭐☆ |
-| Image to Base64 | Convert images to Base64 | ⭐⭐⭐☆☆ |
+| [Image Compressor](https://itools.click/img-compress) | Compress images without quality loss | ⭐⭐⭐⭐⭐ |
+| [Image Resizer](https://itools.click/img-resize) | Resize images to any dimension | ⭐⭐⭐⭐⭐ |
+| [Image Converter](https://itools.click/img-convert) | Convert between image formats | ⭐⭐⭐⭐☆ |
+| [Image to Base64](https://itools.click/img-base64) | Convert images to Base64 | ⭐⭐⭐☆☆ |
 
 ### 🔐 Security Tools
 | Tool | Description | Popularity |
 |------|-------------|------------|
-| Hash Generator | Generate MD5, SHA-256, SHA-512 hashes | ⭐⭐⭐⭐☆ |
-| Base64 Tool | Encode/decode Base64 strings | ⭐⭐⭐⭐☆ |
-| JWT Decoder | Decode JWT tokens | ⭐⭐⭐☆☆ |
-| UUID Generator | Generate unique UUIDs | ⭐⭐⭐☆☆ |
+| [Hash Generator](https://itools.click/sec-hash) | Generate MD5, SHA-256, SHA-512 hashes | ⭐⭐⭐⭐☆ |
+| [Base64 Tool](https://itools.click/sec-b64) | Encode/decode Base64 strings | ⭐⭐⭐⭐☆ |
+| [JWT Decoder](https://itools.click/sec-jwt) | Decode JWT tokens | ⭐⭐⭐☆☆ |
+| [UUID Generator](https://itools.click/sec-uuid) | Generate unique UUIDs | ⭐⭐⭐☆☆ |
 
 ### 💻 Developer Tools
 | Tool | Description | Popularity |
 |------|-------------|------------|
-| JSON Formatter | Format and validate JSON | ⭐⭐⭐⭐⭐ |
-| QR Code Generator | Generate QR codes | ⭐⭐⭐⭐⭐ |
-| Password Generator | Generate secure passwords | ⭐⭐⭐⭐⭐ |
-| JSON to CSV | Convert JSON to CSV format | ⭐⭐⭐⭐☆ |
-| Cron Generator | Generate cron expressions | ⭐⭐⭐☆☆ |
+| [JSON Formatter](https://itools.click/dev-json) | Format and validate JSON | ⭐⭐⭐⭐⭐ |
+| [User Agent Parser](https://itools.click/dev-ua) | Parse user agent strings | ⭐⭐⭐☆☆ | 
+| [QR Code Generator](https://itools.click/dev-qr) | Generate QR codes | ⭐⭐⭐⭐⭐ |
+| [Password Generator](https://itools.click/dev-pass) | Generate secure passwords | ⭐⭐⭐⭐⭐ |
+| [JSON to CSV](https://itools.click/dev-json2csv) | Convert JSON to CSV format | ⭐⭐⭐⭐☆ |
+| [Cron Generator](https://itools.click/dev-cron) | Generate cron expressions | ⭐⭐⭐☆☆ |
 
 ### 📝 Text Tools
 | Tool | Description | Popularity |
 |------|-------------|------------|
-| Lorem Ipsum | Generate placeholder text | ⭐⭐⭐☆☆ |
-| Case Converter | Convert text between cases | ⭐⭐⭐⭐☆ |
-| Word Counter | Count words and characters | ⭐⭐⭐⭐⭐ |
-| SQL Formatter | Format SQL queries | ⭐⭐⭐☆☆ |
+| [Lorem Ipsum](https://itools.click/txt-lorem) | Generate placeholder text | ⭐⭐⭐☆☆ |
+| [Case Converter](https://itools.click/txt-case) | Convert text between cases | ⭐⭐⭐⭐☆ |
+| [Word Counter](https://itools.click/text-count) | Count words and characters | ⭐⭐⭐⭐⭐ |
+| [SQL Formatter](https://itools.click/txt-sql) | Format SQL queries | ⭐⭐⭐☆☆ |
 
 ### 🎨 Design Tools
 | Tool | Description | Popularity |
 |------|-------------|------------|
-| Color Converter | Convert between color formats | ⭐⭐⭐⭐☆ |
-| Gradient Generator | Create CSS gradients | ⭐⭐⭐⭐☆ |
-| Contrast Checker | Check color contrast | ⭐⭐⭐☆☆ |
+| [Color Converter](https://itools.click/design-color) | Convert between color formats | ⭐⭐⭐⭐☆ |
+| [Gradient Generator](https://itools.click/design-grad) | Create CSS gradients | ⭐⭐⭐⭐☆ |
+| [Contrast Checker](https://itools.click/design-contrast) | Check color contrast | ⭐⭐⭐☆☆ |
 
 ### 📏 Unit Converters
 | Tool | Description | Popularity |
 |------|-------------|------------|
-| Unit Converter | Convert between units | ⭐⭐⭐⭐☆ |
-| Data Size Converter | Convert data sizes | ⭐⭐⭐☆☆ |
-| Number Base | Convert number bases | ⭐⭐⭐☆☆ |
+| [Unit Converter](https://itools.click/unit-conv) | Convert between units | ⭐⭐⭐⭐☆ |
+| [Data Size Converter](https://itools.click/unit-data) | Convert data sizes | ⭐⭐⭐☆☆ |
+| [Number Base](https://itools.click/unit-base) | Convert number bases | ⭐⭐⭐☆☆ |
 
 ### 🌐 Network Tools
 | Tool | Description | Popularity |
 |------|-------------|------------|
-| IP Lookup | Lookup IP information | ⭐⭐⭐☆☆ |
-| URL Encoder/Decoder | Encode/decode URLs | ⭐⭐⭐⭐☆ |
+| [IP Lookup](https://itools.click/net-ip) | Lookup IP information | ⭐⭐⭐☆☆ |
+| [URL Encoder/Decoder](https://itools.click/net-url) | Encode/decode URLs | ⭐⭐⭐⭐☆ |
 
 ---
 
@@ -129,10 +130,3 @@
 - PHP 7.4 or higher
 - Web server (Apache/Nginx)
 - Modern web browser with JavaScript enabled
-
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/Digitalbitcoin/itools.git
-cd itools
