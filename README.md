@@ -53,7 +53,7 @@
 ### 📄 PDF Tools
 | Tool | Description | Popularity |
 |------|-------------|------------|
-| [Image To PDF](https://itools.click/img-to-pdf) | Convert images to PDF format | ⭐⭐⭐⭐☆ |
+| [Image To PDF](https://itools.click/image-to-pdf) | Convert images to PDF format | ⭐⭐⭐⭐☆ |
 | [PDF to ZIP](https://itools.click/pdf-to-zip) | Compress PDF files to ZIP | ⭐⭐⭐☆☆ |
 | [PDF Merge](https://itools.click/pdf-merge) | Combine multiple PDFs | ⭐⭐⭐⭐⭐ |
 | [PDF Split](https://itools.click/pdf-split) | Split PDF into pages | ⭐⭐⭐⭐☆ |
@@ -70,56 +70,56 @@
 ### 🖼️ Image Tools
 | Tool | Description | Popularity |
 |------|-------------|------------|
-| [Image Compressor](https://itools.click/img-compress) | Compress images without quality loss | ⭐⭐⭐⭐⭐ |
-| [Image Resizer](https://itools.click/img-resize) | Resize images to any dimension | ⭐⭐⭐⭐⭐ |
-| [Image Converter](https://itools.click/img-convert) | Convert between image formats | ⭐⭐⭐⭐☆ |
-| [Image to Base64](https://itools.click/img-base64) | Convert images to Base64 | ⭐⭐⭐☆☆ |
+| [Image Compressor](https://itools.click/image-compressor) | Compress images without quality loss | ⭐⭐⭐⭐⭐ |
+| [Image Resizer](https://itools.click/image-resizer) | Resize images to any dimension | ⭐⭐⭐⭐⭐ |
+| [Image Converter](https://itools.click/image-converter) | Convert between image formats | ⭐⭐⭐⭐☆ |
+| [Image to Base64](https://itools.click/image-to-base64) | Convert images to Base64 | ⭐⭐⭐☆☆ |
 
 ### 🔐 Security Tools
 | Tool | Description | Popularity |
 |------|-------------|------------|
-| [Hash Generator](https://itools.click/sec-hash) | Generate MD5, SHA-256, SHA-512 hashes | ⭐⭐⭐⭐☆ |
-| [Base64 Tool](https://itools.click/sec-b64) | Encode/decode Base64 strings | ⭐⭐⭐⭐☆ |
-| [JWT Decoder](https://itools.click/sec-jwt) | Decode JWT tokens | ⭐⭐⭐☆☆ |
-| [UUID Generator](https://itools.click/sec-uuid) | Generate unique UUIDs | ⭐⭐⭐☆☆ |
+| [Hash Generator](https://itools.click/hash-generator) | Generate MD5, SHA-256, SHA-512 hashes | ⭐⭐⭐⭐☆ |
+| [Base64 Tool](https://itools.click/base64-encoder) | Encode/decode Base64 strings | ⭐⭐⭐⭐☆ |
+| [JWT Decoder](https://itools.click/jwt-decoder) | Decode JWT tokens | ⭐⭐⭐☆☆ |
+| [UUID Generator](https://itools.click/uuid-generator) | Generate unique UUIDs | ⭐⭐⭐☆☆ |
 
 ### 💻 Developer Tools
 | Tool | Description | Popularity |
 |------|-------------|------------|
-| [JSON Formatter](https://itools.click/dev-json) | Format and validate JSON | ⭐⭐⭐⭐⭐ |
-| [User Agent Parser](https://itools.click/dev-ua) | Parse user agent strings | ⭐⭐⭐☆☆ | 
-| [QR Code Generator](https://itools.click/dev-qr) | Generate QR codes | ⭐⭐⭐⭐⭐ |
-| [Password Generator](https://itools.click/dev-pass) | Generate secure passwords | ⭐⭐⭐⭐⭐ |
-| [JSON to CSV](https://itools.click/dev-json2csv) | Convert JSON to CSV format | ⭐⭐⭐⭐☆ |
-| [Cron Generator](https://itools.click/dev-cron) | Generate cron expressions | ⭐⭐⭐☆☆ |
+| [JSON Formatter](https://itools.click/json-formatter) | Format and validate JSON | ⭐⭐⭐⭐⭐ |
+| [User Agent Parser](https://itools.click/user-agent-parser) | Parse user agent strings | ⭐⭐⭐☆☆ | 
+| [QR Code Generator](https://itools.click/qr-code-generator) | Generate QR codes | ⭐⭐⭐⭐⭐ |
+| [Password Generator](https://itools.click/password-generator) | Generate secure passwords | ⭐⭐⭐⭐⭐ |
+| [JSON to CSV](https://itools.click/json-to-csv) | Convert JSON to CSV format | ⭐⭐⭐⭐☆ |
+| [Cron Generator](https://itools.click/cron-generator) | Generate cron expressions | ⭐⭐⭐☆☆ |
 
 ### 📝 Text Tools
 | Tool | Description | Popularity |
 |------|-------------|------------|
-| [Lorem Ipsum](https://itools.click/txt-lorem) | Generate placeholder text | ⭐⭐⭐☆☆ |
-| [Case Converter](https://itools.click/txt-case) | Convert text between cases | ⭐⭐⭐⭐☆ |
-| [Word Counter](https://itools.click/text-count) | Count words and characters | ⭐⭐⭐⭐⭐ |
-| [SQL Formatter](https://itools.click/txt-sql) | Format SQL queries | ⭐⭐⭐☆☆ |
+| [Lorem Ipsum](https://itools.click/lorem-ipsum-generator) | Generate placeholder text | ⭐⭐⭐☆☆ |
+| [Case Converter](https://itools.click/case-converter) | Convert text between cases | ⭐⭐⭐⭐☆ |
+| [Word Counter](https://itools.click/word-counter) | Count words and characters | ⭐⭐⭐⭐⭐ |
+| [SQL Formatter](https://itools.click/sql-formatter) | Format SQL queries | ⭐⭐⭐☆☆ |
 
 ### 🎨 Design Tools
 | Tool | Description | Popularity |
 |------|-------------|------------|
-| [Color Converter](https://itools.click/design-color) | Convert between color formats | ⭐⭐⭐⭐☆ |
-| [Gradient Generator](https://itools.click/design-grad) | Create CSS gradients | ⭐⭐⭐⭐☆ |
-| [Contrast Checker](https://itools.click/design-contrast) | Check color contrast | ⭐⭐⭐☆☆ |
+| [Color Converter](https://itools.click/color-converter) | Convert between color formats | ⭐⭐⭐⭐☆ |
+| [Gradient Generator](https://itools.click/gradient-generator) | Create CSS gradients | ⭐⭐⭐⭐☆ |
+| [Contrast Checker](https://itools.click/contrast-checker) | Check color contrast | ⭐⭐⭐☆☆ |
 
 ### 📏 Unit Converters
 | Tool | Description | Popularity |
 |------|-------------|------------|
-| [Unit Converter](https://itools.click/unit-conv) | Convert between units | ⭐⭐⭐⭐☆ |
-| [Data Size Converter](https://itools.click/unit-data) | Convert data sizes | ⭐⭐⭐☆☆ |
-| [Number Base](https://itools.click/unit-base) | Convert number bases | ⭐⭐⭐☆☆ |
+| [Unit Converter](https://itools.click/unit-converter) | Convert between units | ⭐⭐⭐⭐☆ |
+| [Data Size Converter](https://itools.click/data-size-converter) | Convert data sizes | ⭐⭐⭐☆☆ |
+| [Number Base](https://itools.click/number-base-converter) | Convert number bases | ⭐⭐⭐☆☆ |
 
 ### 🌐 Network Tools
 | Tool | Description | Popularity |
 |------|-------------|------------|
-| [IP Lookup](https://itools.click/net-ip) | Lookup IP information | ⭐⭐⭐☆☆ |
-| [URL Encoder/Decoder](https://itools.click/net-url) | Encode/decode URLs | ⭐⭐⭐⭐☆ |
+| [IP Lookup](https://itools.click/ip-lookup) | Lookup IP information | ⭐⭐⭐☆☆ |
+| [URL Encoder/Decoder](https://itools.click/url-encode-decode) | Encode/decode URLs | ⭐⭐⭐⭐☆ |
 
 ---
 
