@@ -100,6 +100,9 @@
 | [Case Converter](https://itools.click/case-converter) | Convert text between cases | ⭐⭐⭐⭐☆ |
 | [Word Counter](https://itools.click/word-counter) | Count words and characters | ⭐⭐⭐⭐⭐ |
 | [SQL Formatter](https://itools.click/sql-formatter) | Format SQL queries | ⭐⭐⭐☆☆ |
+| [Remove Duplicate Lines](https://itools.click/remove-duplicate-lines) | Quickly remove duplicate lines | ⭐⭐⭐☆☆ |
+| [Text Diff Checker](https://itools.click/text-diff-checker) | Check Text Difficulty | ⭐⭐⭐⭐⭐ |
+
 
 ### 🎨 Design Tools
 | Tool | Description | Popularity |
