@@ -92,6 +92,8 @@
 | [Password Generator](https://itools.click/password-generator) | Generate secure passwords | ⭐⭐⭐⭐⭐ |
 | [JSON to CSV](https://itools.click/json-to-csv) | Convert JSON to CSV format | ⭐⭐⭐⭐☆ |
 | [Cron Generator](https://itools.click/cron-generator) | Generate cron expressions | ⭐⭐⭐☆☆ |
+| [HTML Entity Encoder](https://itools.click/html-entity-encoder) | HTML Entity Encoder | ⭐⭐⭐☆☆ |
+
 
 ### 📝 Text Tools
 | Tool | Description | Popularity |
