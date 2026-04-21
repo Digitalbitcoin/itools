@@ -53,6 +53,14 @@
 ### 📄 PDF Tools
 | Tool | Description | Popularity |
 |------|-------------|------------|
+| [AI.txt Generator](https://itools.click/ai-txt-generator) | Generate AI.txt file | ⭐⭐⭐⭐☆ |
+| [Humans.txt Generator](https://itools.click/humans-txt-generator) | Generate Humans.txt file | ⭐⭐⭐⭐☆ |
+| [LLM.txt Generator](https://itools.click/llm-txt-generator) | Generate Llm.txt file | ⭐⭐⭐⭐⭐ |
+| [Schema Generator](https://itools.click/schema-generator) | Generate Schema for Website| ⭐⭐⭐⭐☆ |
+
+### 📄 PDF Tools
+| Tool | Description | Popularity |
+|------|-------------|------------|
 | [Image To PDF](https://itools.click/image-to-pdf) | Convert images to PDF format | ⭐⭐⭐⭐☆ |
 | [PDF to ZIP](https://itools.click/pdf-to-zip) | Compress PDF files to ZIP | ⭐⭐⭐☆☆ |
 | [PDF Merge](https://itools.click/pdf-merge) | Combine multiple PDFs | ⭐⭐⭐⭐⭐ |
