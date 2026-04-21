@@ -101,7 +101,7 @@
 | [JSON to CSV](https://itools.click/json-to-csv) | Convert JSON to CSV format | ⭐⭐⭐⭐☆ |
 | [Cron Generator](https://itools.click/cron-generator) | Generate cron expressions | ⭐⭐⭐☆☆ |
 | [HTML Entity Encoder](https://itools.click/html-entity-encoder) | HTML Entity Encoder | ⭐⭐⭐☆☆ |
-
+| [Bar Code Generator](https://itools.click/bar-code-generator) | Generate Bar Codes | ⭐⭐⭐⭐⭐ |
 
 ### 📝 Text Tools
 | Tool | Description | Popularity |
@@ -112,7 +112,6 @@
 | [SQL Formatter](https://itools.click/sql-formatter) | Format SQL queries | ⭐⭐⭐☆☆ |
 | [Remove Duplicate Lines](https://itools.click/remove-duplicate-lines) | Quickly remove duplicate lines | ⭐⭐⭐☆☆ |
 | [Text Diff Checker](https://itools.click/text-diff-checker) | Check Text Difficulty | ⭐⭐⭐⭐⭐ |
-
 
 ### 🎨 Design Tools
 | Tool | Description | Popularity |
